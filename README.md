@@ -45,3 +45,5 @@ Wes Simcox
 ## References:
 
 [StarterCode](https://github.com/coding-boot-camp/urban-octo-telegram)
+
+Semantic element assistance from [w3schools.com](https://www.w3schools.com/html/html5_semantic_elements.asp)
